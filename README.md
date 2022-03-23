@@ -1,4 +1,6 @@
-**Status:** Maintenance (expect bug fixes and minor updates)
+
+# Mujoco-py for Windows 10
+- This repo is forked to build mujoco-py in Windows 10
 
 # mujoco-py [![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://openai.github.io/mujoco-py/build/html/index.html) [![Build Status](https://travis-ci.org/openai/mujoco-py.svg?branch=master)](https://travis-ci.org/openai/mujoco-py)
 
